@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace TP1
+{
+    internal class E5
+    {
+        public static void Run()
+        {
+            Console.WriteLine("--- Exercício 5: Hello World ---");
+            Console.WriteLine();
+
+            Console.WriteLine("Hello World");
+        }
+    }
+}
