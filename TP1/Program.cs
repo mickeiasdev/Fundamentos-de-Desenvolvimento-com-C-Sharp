@@ -20,8 +20,6 @@ public class Program
 
             Console.Clear();
 
-            try
-            {
                 switch (escolha)
                 {
                     case "1":
@@ -61,11 +59,7 @@ public class Program
                         Console.WriteLine("Opção inválida! Tente um número de 1 a 10.");
                         break;
                 }
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine($"Ocorreu um erro ao rodar o exercício {escolha}: {ex.Message}");
-            }
+            
 
             Console.WriteLine("\n----------------------------------------");
             Console.WriteLine("Pressione Enter para voltar ao menu...");
