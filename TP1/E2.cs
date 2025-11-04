@@ -8,6 +8,7 @@ namespace TP1
 {
     internal class E2
     {
+<<<<<<< HEAD
         public static void Run()
         {
             Console.WriteLine("--- Exercício 2: Componentes para Desenvolvimento Web com C# ---");

@@ -1,4 +1,5 @@
 ﻿using System;
+
 using TP1;
 
 public class Program
@@ -54,7 +55,7 @@ public class Program
                 case "0":
                     Console.WriteLine("Finalizando.");
                     return;
-               default:
+                default:
                     Console.WriteLine("Opção inválida! Tente um número de 1 a 10.");
                     break;
             }

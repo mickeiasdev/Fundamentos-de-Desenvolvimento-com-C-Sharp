@@ -20,7 +20,7 @@ namespace TP1
             Console.WriteLine("A versão 'Community' é grátis e tem tudo que um iniciante precisa.");
             Console.WriteLine("Como desvantagem, ele é pesado. Demora pra abrir e consome bastante RAM,");
             Console.WriteLine("sendo focado quase 100% no mundo Microsoft.");
-            Console.WriteLine("\n");
+            Console.WriteLine();
 
             Console.WriteLine("[ Visual Studio Code (VS Code) ]");
             Console.WriteLine("--------------------------------");
@@ -28,7 +28,7 @@ namespace TP1
             Console.WriteLine("É gratuito, roda liso no Mac e Linux e é customizável com milhões de extensões.");
             Console.WriteLine("A desvantagem é que, pra C#, ele é 'básico' sozinho e depende da extensão da Microsoft.");
             Console.WriteLine("É mais um 'editor de código' turbinado do que uma 'IDE' completa como o VS.");
-            Console.WriteLine("\n");
+            Console.WriteLine();
 
             Console.WriteLine("[ Rider (da JetBrains) ]");
             Console.WriteLine("--------------------------");
